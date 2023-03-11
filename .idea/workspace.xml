@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9c04b0e-f15e-49da-9808-e77d033070b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_main_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/main_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_main_page.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +42,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Egor/PycharmProjects/Learn/Trash",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests in test_main_page.py (1)">
-    <configuration name="Python tests in test_main_page.py (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Egor\PycharmProjects\Learn\stepik_auto_tests_course\pages\locators" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests in test_product_page.py">
+    <configuration name="Python tests in C:/Users/Egor/PycharmProjects/Learn/stepik_auto_tests_course/test/test_main_page.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="stepik_auto_tests_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,6 +63,20 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_main_page.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in stepik_auto_tests_course" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="stepik_auto_tests_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -70,10 +94,26 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in test_product_page.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="stepik_auto_tests_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_product_page.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_main_page.py (1)" />
+        <item itemvalue="Python tests.Python tests in test_product_page.py" />
+        <item itemvalue="Python tests.Python tests in stepik_auto_tests_course" />
         <item itemvalue="Python tests.Python tests in test_main_page.py" />
+        <item itemvalue="Python tests.Python tests in C:/Users/Egor/PycharmProjects/Learn/stepik_auto_tests_course/test/test_main_page.py" />
       </list>
     </recent_temporary>
   </component>
@@ -87,15 +127,5 @@
       <updated>1677389772040</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/pages/main_page.py</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
